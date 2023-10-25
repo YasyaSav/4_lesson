@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+if a>20 or b>20:
+    print("Hello!")
+else:
+    print("Yoy")
